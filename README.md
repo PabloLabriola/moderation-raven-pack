@@ -9,4 +9,4 @@ To start application execute: ./gradlew bootRun
 
 API documentation available on the next url: http://localhost:8080/swagger-ui/index.html
 
-Endpoint for uploading csv file, it should be called by POST, and sent in the body of the request with the name "fileToModerate": http://localhost:8080/api/v1/message-moderation
+Endpoint for uploading csv file, it should be called by POST, and sent in the body of the request with the name "file-to-moderate": http://localhost:8080/api/v1/message-moderation
