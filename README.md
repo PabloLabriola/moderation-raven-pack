@@ -1,6 +1,6 @@
 ## Build
 
-To build the entire project: ./gradlew build (compile the code, generate the documentation and run the test)
+To build the entire project: ./gradlew build (compile the code, generate the documentation and run the tests)
 
 
 To start application execute: ./gradlew bootRun
